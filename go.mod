@@ -1,4 +1,4 @@
-module github.com/samber/slog-nats
+module github.com/adpande/slog-nats
 
 go 1.21
 

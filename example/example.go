@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
+	slognats "github.com/adpande/slog-nats"
 	"github.com/nats-io/nats.go"
-	slognats "github.com/samber/slog-nats"
 
 	"log/slog"
 )
